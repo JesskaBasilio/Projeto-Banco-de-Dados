@@ -1,0 +1,21 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "- Criar o design do front end;\r - (link-figma):`https://www.figma.com/design/BxXRv4yltAGwdt3RZG3g0G/CL%C3%8DNICA-DE-PSICOLOGIA?node-id=0-1&t=03FUqqg6A9u3fyjS-0`",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1",
+    "morgan": "^1.10.0",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
